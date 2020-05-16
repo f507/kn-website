@@ -1,2 +1,2 @@
-# github-pages-example
-Ein einfaches Beispiel zur Illustration von GitHub Pages.
+# Domain Parking
+Informing visitors that there is no content on this website.
