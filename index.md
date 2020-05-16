@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Knauf.name 
+## KNAUF.name 
 
 Currently there is no content on this web presence.
 
